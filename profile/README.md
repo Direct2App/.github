@@ -16,35 +16,29 @@ Cut through the noise. Direct2App curates top software and AI tools with concise
 
 **Powerful search and filters**
 
-Browse by category (e.g., AI Tools, Analytics, Marketing, Development, SaaS)
-
-Filter by tags like AI, Web3, Automation, SEO, Templates, and more
-
-Sort by time to catch the latest launches
+*   Browse by category (e.g., AI Tools, Analytics, Marketing, Development, SaaS)
+*   Filter by tags like AI, Web3, Automation, SEO, Templates, and more
+*   Sort by time to catch the latest launches
 
 **Curated tool profiles**
 
-Clear value summaries (what it does, who it’s for)
-
-Direct “Visit Website” links
-
-Consistent metadata (category, tags, and highlights)
+*   Clear value summaries (what it does, who it’s for)
+*   Direct “Visit Website” links
+*   Consistent metadata (category, tags, and highlights)
 
 **Collections and pages**
 
-Premium AI Tools and Web Hosting Providers collections
-
-Editor-curated lists to speed up decisions
+*   Premium AI Tools and Web Hosting Providers collections
+*   Editor-curated lists to speed up decisions
 
 **Community and updates**
 
-Newsletter with buying tips, product launches, and best-in-class picks
-
-Blog with insights to make smarter software choices
+*   Newsletter with buying tips, product launches, and best-in-class picks
+*   Blog with insights to make smarter software choices
 
 **Easy submissions**
 
-Founders and makers can submit tools for review at /submit
+*   Founders and makers can submit tools for review at /submit
 
 ## Quick Start
 
